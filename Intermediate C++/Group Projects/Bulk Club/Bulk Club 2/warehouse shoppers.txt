@@ -1,0 +1,56 @@
+Fred Frugal
+67890
+Regular
+12/15/2017
+Betty Buysalot
+12897
+Executive
+09/22/2018
+Larry Largefamily
+44444
+Regular
+10/01/2017
+Sam Shopper
+12345
+Regular
+08/01/2018
+Linda Livesalone
+35647
+Executive
+12/15/2017
+Sam Single
+31311
+Executive
+12/05/2017
+Mary IsHappy
+96309
+Executive
+12/05/2017
+Kathy Havealotsofkids
+12121
+Executive
+12/30/2017
+Sally Spendstomuch 
+77777
+Executive
+11/15/2017
+Benjamin Business
+16161
+Regular
+11/20/2017
+Tasha the Cat
+61616
+Regular
+03/20/2017
+Sue Shoparound
+56723
+Executive
+03/21/2017
+BulkClub Bob
+67899 
+Regular
+10/22/2017
+Costco Cary
+88888
+Executive
+10/22/2017

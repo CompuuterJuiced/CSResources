@@ -1,0 +1,40 @@
+08/22/2017
+12345
+1 gallon milk
+6.49	5
+08/22/2017
+12345
+Assorted Muffins
+5.89	2
+08/22/2017
+88888
+Home On The Range
+19.98	1
+08/22/2017
+77777
+Disney DVD Collection
+49.95	1
+08/22/2017
+88888
+A Bug's Life
+9.95	1
+08/22/2017
+77777
+The Princess Bride
+17.75	16
+08/22/2017
+61616
+All Laundry Detergent
+7.99	22
+08/22/2017
+35647
+Pringles
+6.99	8
+08/22/2017
+12121
+Levi 501's
+21.50	10
+08/22/2017
+12345
+diet Coke
+6.79	26

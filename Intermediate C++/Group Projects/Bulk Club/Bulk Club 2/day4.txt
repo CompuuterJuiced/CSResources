@@ -1,0 +1,48 @@
+08/23/2017
+12345
+1 gallon milk
+6.49	8
+08/23/2017
+12345
+Assorted Muffins
+5.89	4
+08/23/2017
+77777
+Rack of Lamb
+14.79	4
+08/23/2017
+88888
+Foster Farms Whole Chicken
+11.75	2
+08/23/2017
+61616
+Spiderman 2
+19.95	1
+08/23/2017
+61616
+While You Were Sleeping
+17.75	1
+08/23/2017
+12345
+All Laundry Detergent
+7.99	1
+08/23/2017
+67899
+Bkfst Cereal Variety Pack
+7.29	4
+08/23/2017
+12345
+Disney DVD Collection 2
+59.99	1
+08/23/2017
+12899
+Pepsi
+6.75	8
+08/23/2017
+61616
+Coke
+6.79	7
+08/23/2017
+12345
+Assorted Muffins
+5.89	10

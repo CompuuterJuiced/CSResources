@@ -1,0 +1,48 @@
+08/21/2017
+61616
+1 gallon milk
+6.49	6
+08/21/2017
+77777
+Wonder Bread
+1.29	7
+08/21/2017
+77777
+1.5 dozen eggs
+1.29	3
+08/21/2017
+35647
+Hamburger
+7.25	1
+08/21/2017
+31311
+The Bourne Supremacy
+19.95	4
+08/21/2017
+12121
+Toilet Paper
+11.75	1
+08/21/2017
+67899
+Ponds Lotion
+5.79	1
+08/21/2017
+61616
+VCR/DVD Player
+89.99	1
+08/21/2017
+61616
+Levi 501's
+21.50	4
+08/21/2017
+12345
+Farberware Cookware Set
+289.99	20
+08/21/2017
+61616
+Coffee Creamer
+5.75	5
+08/21/2017
+12345
+Legal Pads
+6.25	10

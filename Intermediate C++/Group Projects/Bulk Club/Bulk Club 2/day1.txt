@@ -1,0 +1,52 @@
+08/20/2017
+12345
+1 gallon milk
+8.49	33
+08/20/2017
+67899
+Rye Bread
+5.79	29
+08/20/2017
+12899
+Ground Beef
+8.86	80
+08/20/2017
+12899
+Pork Tenderloin
+19.25	2
+08/20/2017
+12899
+Shrek 2
+19.95	1
+08/20/2017
+12345
+Seinfeld Collection DVDs
+39.95	50
+08/20/2017
+67899
+The Alamo
+19.95	6
+08/20/2017
+67899
+Most Basic DVD Player
+59.99	1
+08/20/2017
+12345
+EPSON Printer
+59.99	20
+08/20/2017
+88888
+EPSON Printer Cart.
+32.50	50
+08/20/2017
+67899
+Instant Coffee
+7.75	44
+08/20/2017
+12899
+Paper Shredder
+199.99  1
+08/20/2017
+56723
+Envelops
+2.99    5
